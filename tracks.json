@@ -1,0 +1,816 @@
+{
+ "base": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9",
+ "projects": {
+  "seidr": [
+   {
+    "file": "Báldr.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Ba%CC%81ldr.mp3",
+    "title": "Báldr ",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Berserkja Grátr.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Berserkja%20Gra%CC%81tr.mp3",
+    "title": "Berserkja Grátr ",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Blood Eagle.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Blood%20Eagle.mp3",
+    "title": "Blood Eagle",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Blóð 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Blo%CC%81%C3%B0%202.mp3",
+    "title": "Blóð 2",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Chromatic Frequency.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Chromatic%20Frequency.mp3",
+    "title": "Chromatic Frequency ",
+    "artist": "Chromatic Frequency"
+   },
+   {
+    "file": "Dua.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Dua.mp3",
+    "title": "Dua",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Eldrborn.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Eldrborn.mp3",
+    "title": "Eldrborn",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Eternal Frost.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Eternal%20Frost.mp3",
+    "title": "Eternal Frost",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Fenrir.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Fenrir.mp3",
+    "title": "Fenrir",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Glamr Bolvar (Remix).mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Glamr%20Bolvar%20%28Remix%29.mp3",
+    "title": "Glamr Bolvar (Remix)",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Hamars Brúðlaup.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Hamars%20Bru%CC%81%C3%B0laup.mp3",
+    "title": "Hamars Brúðlaup",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Haugsöngvar.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Haugso%CC%88ngvar.mp3",
+    "title": "Haugsöngvar",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Hervararkviða.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Hervararkvi%C3%B0a.mp3",
+    "title": "Hervararkviða",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Hjalmarrs Saga.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Hjalmarrs%20Saga.mp3",
+    "title": "Hjalmarrs Saga",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Hjaltason.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Hjaltason.mp3",
+    "title": "Hjaltason",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Hrafn.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Hrafn.mp3",
+    "title": "Hrafn",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Jörð.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Jo%CC%88r%C3%B0.mp3",
+    "title": "Jörð",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Kjartan.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Kjartan.mp3",
+    "title": "Kjartan",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Kolbrúnar.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Kolbru%CC%81nar.mp3",
+    "title": "Kolbrúnar",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Rán | ᚱᛅᚾ.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Ra%CC%81n%20%7C%20%E1%9A%B1%E1%9B%85%E1%9A%BE.mp3",
+    "title": "Rán | ᚱᛅᚾ",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Skallagrímsson.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Skallagri%CC%81msson.mp3",
+    "title": "Skallagrímsson ",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Skikkjan.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Skikkjan.mp3",
+    "title": "Skikkjan",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Sumbl Orkneyja.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Sumbl%20Orkneyja.mp3",
+    "title": "Sumbl Orkneyja",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Súrssonar.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Su%CC%81rssonar.mp3",
+    "title": "Súrssonar",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Tears of Gold.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Tears%20of%20Gold.mp3",
+    "title": "Tears of Gold",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Thay-Gee Thoo.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Thay-Gee%20Thoo.mp3",
+    "title": "Thay-Gee Thoo",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "The Ferryman's Flyting.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/The%20Ferryman%27s%20Flyting.mp3",
+    "title": "The Ferryman's Flyting",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Til Árs Ok Friðar (Remix) (Remix) 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Til%20A%CC%81rs%20Ok%20Fri%C3%B0ar%20%28Remix%29%20%28Remix%29%202.mp3",
+    "title": "Til Árs Ok Friðar (Remix) (Remix) 2",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Two Wives of Sleep.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Two%20Wives%20of%20Sleep.mp3",
+    "title": "Two Wives of Sleep",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Valfǫðr kallar.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Valfo%CC%A8%C3%B0r%20kallar.mp3",
+    "title": "Valfǫðr kallar",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Valkyrja.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Valkyrja.mp3",
+    "title": "Valkyrja ",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Vefr Darraðar.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Vefr%20Darra%C3%B0ar.mp3",
+    "title": "Vefr Darraðar ",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Vel ek þik.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Vel%20ek%20%C3%BEik.mp3",
+    "title": "Vel ek þik",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Vesh.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Vesh.mp3",
+    "title": "Vesh",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Vígsfjörðr.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Vi%CC%81gsfjo%CC%88r%C3%B0r.mp3",
+    "title": "Vígsfjörðr",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Vígslist.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Vi%CC%81gslist.mp3",
+    "title": "Vígslist",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Vínlendingr.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/Vi%CC%81nlendingr.mp3",
+    "title": "Vínlendingr",
+    "artist": "Seiðr"
+   },
+   {
+    "file": "Þrjár.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/seidr/%C3%9Erja%CC%81r.mp3",
+    "title": "Þrjár",
+    "artist": "Seiðr"
+   }
+  ],
+  "istari": [
+   {
+    "file": "Back When It Was Real 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Back%20When%20It%20Was%20Real%202.mp3",
+    "title": "Back When It Was Real 2",
+    "artist": "Istari"
+   },
+   {
+    "file": "Captain of Your Own Fate.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Captain%20of%20Your%20Own%20Fate.mp3",
+    "title": "Captain of Your Own Fate",
+    "artist": "Istari"
+   },
+   {
+    "file": "Counting Clicks.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Counting%20Clicks.mp3",
+    "title": "Counting Clicks",
+    "artist": "Istari"
+   },
+   {
+    "file": "Echo in Eternity 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Echo%20in%20Eternity%202.mp3",
+    "title": "Echo in Eternity 2",
+    "artist": "Istari"
+   },
+   {
+    "file": "I Ain't Me No More 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/I%20Ain%27t%20Me%20No%20More%202.mp3",
+    "title": "I Ain't Me No More 2",
+    "artist": "Istari"
+   },
+   {
+    "file": "If This Ain't Heaven 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/If%20This%20Ain%27t%20Heaven%202.mp3",
+    "title": "If This Ain't Heaven 2",
+    "artist": "Istari"
+   },
+   {
+    "file": "Porch Light.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Porch%20Light.mp3",
+    "title": "Porch Light",
+    "artist": "Istari"
+   },
+   {
+    "file": "Same Old Comet 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Same%20Old%20Comet%202.mp3",
+    "title": "Same Old Comet 2",
+    "artist": "Istari"
+   },
+   {
+    "file": "Same Old Comet.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Same%20Old%20Comet.mp3",
+    "title": "Same Old Comet",
+    "artist": "Istari"
+   },
+   {
+    "file": "Still Call Your Name 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Still%20Call%20Your%20Name%202.mp3",
+    "title": "Still Call Your Name 2",
+    "artist": "Istari"
+   },
+   {
+    "file": "When You Hear That Horn 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/When%20You%20Hear%20That%20Horn%202.mp3",
+    "title": "When You Hear That Horn 2",
+    "artist": "Istari"
+   },
+   {
+    "file": "Whiskey Dark 2.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/istari/Whiskey%20Dark%202.mp3",
+    "title": "Whiskey Dark 2",
+    "artist": "Istari"
+   }
+  ],
+  "sol": [
+   {
+    "file": "Let the Walls Come Down.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/sol/Let%20the%20Walls%20Come%20Down.mp3",
+    "title": "Let the Walls Come Down",
+    "artist": "SÓL"
+   },
+   {
+    "file": "Sweet as Honey.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/sol/Sweet%20as%20Honey.mp3",
+    "title": "Sweet as Honey",
+    "artist": "SÓL"
+   },
+   {
+    "file": "Shade of the Cedar.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/sol/Shade%20of%20the%20Cedar.mp3",
+    "title": "Shade of the Cedar",
+    "artist": "SÓL"
+   }
+  ],
+  "chromatic-frequency": [
+   {
+    "file": "Ember.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/chromatic-frequency/Ember.mp3",
+    "title": "Ember",
+    "artist": "Chromatic Frequency"
+   },
+   {
+    "file": "I Am Presence.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/chromatic-frequency/I%20Am%20Presence.mp3",
+    "title": "I Am Presence",
+    "artist": "Chromatic Frequency"
+   },
+   {
+    "file": "I Am The Temple.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/chromatic-frequency/I%20Am%20The%20Temple.mp3",
+    "title": "I Am The Temple",
+    "artist": "Chromatic Frequency"
+   },
+   {
+    "file": "Love Currency.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/chromatic-frequency/Love%20Currency.mp3",
+    "title": "Love Currency",
+    "artist": "Chromatic Frequency"
+   },
+   {
+    "file": "Pulled Away.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/chromatic-frequency/Pulled%20Away.mp3",
+    "title": "Pulled Away",
+    "artist": "Chromatic Frequency"
+   },
+   {
+    "file": "Stepping Through the Eclipse.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/chromatic-frequency/Stepping%20Through%20the%20Eclipse.mp3",
+    "title": "Stepping Through the Eclipse",
+    "artist": "Chromatic Frequency"
+   },
+   {
+    "file": "What I Feel I Make Real.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/chromatic-frequency/What%20I%20Feel%20I%20Make%20Real.mp3",
+    "title": "What I Feel I Make Real",
+    "artist": "Chromatic Frequency"
+   }
+  ],
+  "nuviric": [
+   {
+    "file": "7 Houses.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/nuviric/7%20Houses.mp3",
+    "title": "7 Houses",
+    "artist": "Nuviric"
+   },
+   {
+    "file": "House Kesh.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/nuviric/House%20Kesh.mp3",
+    "title": "House Kesh",
+    "artist": "Nuviric"
+   },
+   {
+    "file": "Small One.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/nuviric/Small%20One.mp3",
+    "title": "Small One",
+    "artist": "Nuviric"
+   },
+   {
+    "file": "Terrible Lady.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/nuviric/Terrible%20Lady.mp3",
+    "title": "Terrible Lady",
+    "artist": "Nuviric"
+   },
+   {
+    "file": "Clover.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/nuviric/Clover.mp3",
+    "title": "Clover",
+    "artist": "Nuviric"
+   },
+   {
+    "file": "Hurrian Hymn No.6.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/nuviric/Hurrian%20Hymn%20No.6.mp3",
+    "title": "Hurrian Hymn No.6",
+    "artist": "Nuviric"
+   },
+   {
+    "file": "Who Has Ever Seen.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/nuviric/Who%20Has%20Ever%20Seen.mp3",
+    "title": "Who Has Ever Seen",
+    "artist": "Nuviric"
+   }
+  ],
+  "quantum-stillness": [
+   {
+    "file": "Trisynthesis.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/quantum-stillness/Trisynthesis.mp3",
+    "title": "Trisynthesis",
+    "artist": "Quantum Stillness"
+   }
+  ],
+  "tafari-tsion": [
+   {
+    "file": "Welcome to My Town.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/tafari-tsion/Welcome%20to%20My%20Town.mp3",
+    "title": "Welcome to My Town",
+    "artist": "Tafari Tsion"
+   },
+   {
+    "file": "You A Slow Burn.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/tafari-tsion/You%20A%20Slow%20Burn.mp3",
+    "title": "You A Slow Burn",
+    "artist": "Tafari Tsion"
+   },
+   {
+    "file": "The Rain Will Come.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/tafari-tsion/The%20Rain%20Will%20Come.mp3",
+    "title": "The Rain Will Come",
+    "artist": "Tafari Tsion"
+   }
+  ],
+  "nte-news": [
+   {
+    "file": "hour-00.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-00.mp3",
+    "title": "Quantum Stillness App",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-01.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-01.mp3",
+    "title": "NTE Radio",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-02.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-02.mp3",
+    "title": "NTE on Spotify",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-03.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-03.mp3",
+    "title": "Books by Richard Vigslist",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-04.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-04.mp3",
+    "title": "NTE Merch Store",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-05.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-05.mp3",
+    "title": "NUVI HOME",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-06.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-06.mp3",
+    "title": "NTE Discord",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-07.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-07.mp3",
+    "title": "Nuvira Network",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-08.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-08.mp3",
+    "title": "NTE Websites",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-09.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-09.mp3",
+    "title": "NTE Empire Game",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-10.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-10.mp3",
+    "title": "New NTE Music",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-11.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-11.mp3",
+    "title": "Follow NTE",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-12.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-12.mp3",
+    "title": "Quantum Stillness App",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-13.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-13.mp3",
+    "title": "NTE Radio",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-14.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-14.mp3",
+    "title": "NTE on Spotify",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-15.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-15.mp3",
+    "title": "Books by Richard Vigslist",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-16.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-16.mp3",
+    "title": "NTE Merch Store",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-17.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-17.mp3",
+    "title": "NUVI HOME",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-18.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-18.mp3",
+    "title": "NTE Discord",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-19.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-19.mp3",
+    "title": "Nuvira Network",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-20.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-20.mp3",
+    "title": "NTE Websites",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-21.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-21.mp3",
+    "title": "NTE Empire Game",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-22.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-22.mp3",
+    "title": "New NTE Music",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "hour-23.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/hour-23.mp3",
+    "title": "Follow NTE",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "01-vacuum-uprising.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/01-vacuum-uprising.mp3",
+    "title": "The Vacuum Uprising",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "02-grindr-coffee.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/02-grindr-coffee.mp3",
+    "title": "Fake Ad — \"Grindr\" Coffee",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "03-smart-toilet.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/03-smart-toilet.mp3",
+    "title": "Tech News — Smart Toilet Recall",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "04-headline-roundup.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/04-headline-roundup.mp3",
+    "title": "Headline Roundup",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "05-doomscroll.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/05-doomscroll.mp3",
+    "title": "Fake Ad — \"Doomscroll\" Energy Drink",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "06-hoa-drone.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/06-hoa-drone.mp3",
+    "title": "Local Man vs. HOA Drone",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "07-adulting-insurance.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/07-adulting-insurance.mp3",
+    "title": "Fake Ad — \"Adulting\" Insurance",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "08-self-checkout.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/08-self-checkout.mp3",
+    "title": "Self-Checkout Incident",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "09-ghosted-meal-kit.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/09-ghosted-meal-kit.mp3",
+    "title": "Fake Ad — \"Ghosted\" Meal Kit",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "10-reply-all.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/10-reply-all.mp3",
+    "title": "Area Man Discovers \"Reply All\"",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "11-pigeons-noise-complaint.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/11-pigeons-noise-complaint.mp3",
+    "title": "Pigeons File Noise Complaint",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "12-recliner-trap-chair.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/12-recliner-trap-chair.mp3",
+    "title": "Fake Ad — \"Recliner\" Trap Chair",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "13-man-sues-gps.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/13-man-sues-gps.mp3",
+    "title": "Man Sues GPS for Emotional Distress",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "14-traffic-light-consciousness.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/14-traffic-light-consciousness.mp3",
+    "title": "Town's Traffic Light Achieves Consciousness",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "15-deja-brew-coffee.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/15-deja-brew-coffee.mp3",
+    "title": "Fake Ad — \"Deja Brew\" Coffee",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "16-houseplant-intervention.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/16-houseplant-intervention.mp3",
+    "title": "Houseplant Stages Intervention",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "17-vending-machine-therapy.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/17-vending-machine-therapy.mp3",
+    "title": "Vending Machine Starts Giving Therapy",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "18-napquest-game.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/18-napquest-game.mp3",
+    "title": "Fake Ad — \"NapQuest\" Adventure Game",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "19-treadmill-workers-comp.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/19-treadmill-workers-comp.mp3",
+    "title": "Treadmill Files Workers Comp",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "20-dmv-personality-return.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/20-dmv-personality-return.mp3",
+    "title": "Man Tries to Return Personality at DMV",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "21-procrasti-clean.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/21-procrasti-clean.mp3",
+    "title": "Fake Ad — \"ProcrastiClean\"",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "22-ban-mondays.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/22-ban-mondays.mp3",
+    "title": "Town Votes to Ban Mondays",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "23-raccoon-city-council.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/23-raccoon-city-council.mp3",
+    "title": "Raccoon Elected to City Council",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "24-sorry-not-sorry-cards.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/24-sorry-not-sorry-cards.mp3",
+    "title": "Fake Ad — \"SorryNotSorry\" Greeting Cards",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "25-dewey-decimal-sentience.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/25-dewey-decimal-sentience.mp3",
+    "title": "Library's Dewey Decimal System Achieves Sentience",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "26-smartwatch-intervention.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/26-smartwatch-intervention.mp3",
+    "title": "Smartwatch Stages Intervention",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "27-second-breakfast-cereal.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/27-second-breakfast-cereal.mp3",
+    "title": "Fake Ad — \"Second Breakfast\" Cereal",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "28-fountain-terrible-wishes.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/28-fountain-terrible-wishes.mp3",
+    "title": "Town Fountain Starts Granting Terrible Wishes",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "29-car-alarm-choir.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/29-car-alarm-choir.mp3",
+    "title": "Car Alarm Joins Choir",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "30-mute-button.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/30-mute-button.mp3",
+    "title": "Fake Ad — \"MuteButton\"",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "31-weatherman-green-screen.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/31-weatherman-green-screen.mp3",
+    "title": "Weatherman Held Hostage by Green Screen",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "32-statue-unemployment.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/32-statue-unemployment.mp3",
+    "title": "Statue Comes to Life, Files for Unemployment",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "33-cloud-feelings.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/33-cloud-feelings.mp3",
+    "title": "Fake Ad — \"Cloud Feelings\" Storage",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "34-router-podcast.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/34-router-podcast.mp3",
+    "title": "Router Starts Podcast About Your Browsing History",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "35-gym-dodge.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/35-gym-dodge.mp3",
+    "title": "Fake Ad — \"GymDodge\" Excuse Service",
+    "artist": "Kai Eluun"
+   },
+   {
+    "file": "36-airplane-mode-vacation.mp3",
+    "url": "https://stream.nuviratechnologies.io/nte-stream-x7k2q9/news/36-airplane-mode-vacation.mp3",
+    "title": "Fake Ad — \"Airplane Mode\" Vacation",
+    "artist": "Kai Eluun"
+   }
+  ],
+  "nte-podcasts": []
+ },
+ "ids": [
+  "https://nuviratechnologies.io/nte-stream-x7k2q9/ids/id1.mp3",
+  "https://nuviratechnologies.io/nte-stream-x7k2q9/ids/id2.mp3",
+  "https://nuviratechnologies.io/nte-stream-x7k2q9/ids/id3.mp3",
+  "https://nuviratechnologies.io/nte-stream-x7k2q9/ids/id4.mp3",
+  "https://nuviratechnologies.io/nte-stream-x7k2q9/ids/id5.mp3",
+  "https://nuviratechnologies.io/nte-stream-x7k2q9/ids/id6.mp3"
+ ]
+}
